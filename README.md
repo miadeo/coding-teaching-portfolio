@@ -2,8 +2,25 @@
 
 ## About me
 I am a CS graduate with a Masters in Computer Management, based in Nagpur, India.
-I have been teaching coding to K12 students online, helping young learners
-build foundational programming skills in a structured and engaging way.
+I have been teaching coding to K12 students since 2020 across multiple platforms,
+helping young learners build foundational programming skills in a structured
+and engaging way.
+
+## Teaching experience
+
+### CampK12 — Coding Instructor
+July 2020 – April 2023 (3 years)
+- Delivered live online coding classes to K12 students globally
+- Taught Python, Scratch, and web development fundamentals
+- Managed student progress, assessments, and parent communication
+- Conducted structured curriculum-based sessions for age groups 7–16
+
+### YoungGates — Freelance Coding Instructor
+February 2021 – Present
+- Teaching coding independently on the YoungGates platform
+- Personalised one-on-one and small group sessions
+- Curriculum designed around student goals and learning pace
+- Consistent long-term student relationships maintained
 
 ## What I teach
 
@@ -29,7 +46,7 @@ build foundational programming skills in a structured and engaging way.
 
 ## Teaching approach
 I believe every student learns differently. My sessions are:
-- One-on-one or small group (max 5 students)
+- One-on-one or small group (max 8 students)
 - Concept first, then hands-on practice
 - Real projects that students can show their family and friends
 - Patient, encouraging, and adapted to each student's pace
@@ -38,7 +55,7 @@ I believe every student learns differently. My sessions are:
 - Masters in Computer Management — Dr. Ambedkar College, Nagpur
 - Bachelor of Science (Computer Science) — Sri Shivaji Science College, Nagpur
 - 16+ years of business operations experience
-- Active K12 coding instructor
+- 4+ years of active K12 coding instruction
 
 ## Contact
 - LinkedIn: linkedin.com/in/aniket-deo
